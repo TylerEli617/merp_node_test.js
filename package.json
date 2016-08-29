@@ -23,6 +23,6 @@
     "test": "node run_tests.js"
   },
   "dependencies": {
-    "merp_test.js": "git://github.com/TylerEli617/merp_test.js.git"
+    "merp_test.js": "git://github.com/TylerEli617/merp_test.js.git#252364740e9700e196d91dd71b1378ab77b9687d"
   }
 }
