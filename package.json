@@ -1,0 +1,28 @@
+{
+  "name": "merp_node_test.js",
+  "author": "Tyler Eli Terry <TylerEli617@GMail.com>",
+  "description": "A node.js file system test finder for merp_test.js",
+  "license": "Apache-2.0",
+  "version": "0.0.5",
+  "main": "index.js",
+  "keywords": [
+    "test"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TylerEli617/merp_node_test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/TylerEli617/merp_node_test.js/issues"
+  },
+  "homepage": "https://github.com/TylerEli617/merp_node_test.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node run_tests.js"
+  },
+  "dependencies": {
+    "merp_test.js": "git://github.com/TylerEli617/merp_test.js.git"
+  }
+}
